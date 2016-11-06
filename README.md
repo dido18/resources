@@ -10,6 +10,9 @@ This repository contains all the useful resources/tools/books that are interesti
 + [Netflix/Atlas] (https://github.com/Netflix/atlas): managing data, cpu load, nuber of requests received.
 + [Zipkin](http://zipkin.io/): is a distributed tracing system. It helps gather timing data needed to troubleshoot latency problems in microservice architectures. 
 
+### Continuos integration
++ [Jenkins] (https://jenkins.io/)
++ [Capistrano] (http://capistranorb.com/): A remote server automation and deployment tool written in Ruby.
 
 ### Infrastructure
 + [HAproxy](https://www.haproxy.com/)
